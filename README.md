@@ -1,6 +1,6 @@
 # ohayo-worldu
 
-Ohayoguzaimasu! 
+Ohayo Gozaimasu! 
 
 I'm Liping Huang and I love pretending that I speak Japanese. 
 I came back this summer 2017 from studying abroad for a year in Sweden.
