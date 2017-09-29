@@ -1,6 +1,6 @@
 # ohayo-worldu
 
-<title>Ohayo Gozaimasu!</title> 
+<strong>Ohayo Gozaimasu!</strong>
 
 <h1>I'm Liping Huang and I love pretending that I speak Japanese.</h1>
 I came back this summer 2017 from studying abroad <em>for a year</em> in Sweden.
